@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F003A7-5B3C-45F3-8158-DA4EECFD6C31}|Nutrition.Implementation\\Nutrition.Implementation.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.implementation\\usecases\\commands\\foods\\efupdatefoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F003A7-5B3C-45F3-8158-DA4EECFD6C31}|Nutrition.Implementation\\Nutrition.Implementation.csproj|solutionrelative:nutrition.implementation\\usecases\\commands\\foods\\efupdatefoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F003A7-5B3C-45F3-8158-DA4EECFD6C31}|Nutrition.Implementation\\Nutrition.Implementation.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.implementation\\usecases\\commands\\meals\\efupdatemealcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F003A7-5B3C-45F3-8158-DA4EECFD6C31}|Nutrition.Implementation\\Nutrition.Implementation.csproj|solutionrelative:nutrition.implementation\\usecases\\commands\\meals\\efupdatemealcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385EF954-C42A-4534-988E-4B679A084742}|Nutrition.Application\\Nutrition.Application.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.application\\dto\\mealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385EF954-C42A-4534-988E-4B679A084742}|Nutrition.Application\\Nutrition.Application.csproj|solutionrelative:nutrition.application\\dto\\mealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F003A7-5B3C-45F3-8158-DA4EECFD6C31}|Nutrition.Implementation\\Nutrition.Implementation.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.implementation\\validators\\getfoodvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F003A7-5B3C-45F3-8158-DA4EECFD6C31}|Nutrition.Implementation\\Nutrition.Implementation.csproj|solutionrelative:nutrition.implementation\\validators\\getfoodvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F003A7-5B3C-45F3-8158-DA4EECFD6C31}|Nutrition.Implementation\\Nutrition.Implementation.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.implementation\\usecases\\commands\\users\\efregisterusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F003A7-5B3C-45F3-8158-DA4EECFD6C31}|Nutrition.Implementation\\Nutrition.Implementation.csproj|solutionrelative:nutrition.implementation\\usecases\\commands\\users\\efregisterusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE543B4-8347-4F85-B4F5-2829FF57CC59}|Nutrition.API\\Nutrition.API.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.api\\controllers\\mealcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE543B4-8347-4F85-B4F5-2829FF57CC59}|Nutrition.API\\Nutrition.API.csproj|solutionrelative:nutrition.api\\controllers\\mealcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385EF954-C42A-4534-988E-4B679A084742}|Nutrition.Application\\Nutrition.Application.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.application\\dto\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385EF954-C42A-4534-988E-4B679A084742}|Nutrition.Application\\Nutrition.Application.csproj|solutionrelative:nutrition.application\\dto\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385EF954-C42A-4534-988E-4B679A084742}|Nutrition.Application\\Nutrition.Application.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.application\\dto\\foodsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385EF954-C42A-4534-988E-4B679A084742}|Nutrition.Application\\Nutrition.Application.csproj|solutionrelative:nutrition.application\\dto\\foodsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385EF954-C42A-4534-988E-4B679A084742}|Nutrition.Application\\Nutrition.Application.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.application\\usecases\\commands\\foods\\ideletefoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385EF954-C42A-4534-988E-4B679A084742}|Nutrition.Application\\Nutrition.Application.csproj|solutionrelative:nutrition.application\\usecases\\commands\\foods\\ideletefoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE543B4-8347-4F85-B4F5-2829FF57CC59}|Nutrition.API\\Nutrition.API.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.api\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE543B4-8347-4F85-B4F5-2829FF57CC59}|Nutrition.API\\Nutrition.API.csproj|solutionrelative:nutrition.api\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F003A7-5B3C-45F3-8158-DA4EECFD6C31}|Nutrition.Implementation\\Nutrition.Implementation.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.implementation\\usecases\\commands\\foods\\efdeletefoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F003A7-5B3C-45F3-8158-DA4EECFD6C31}|Nutrition.Implementation\\Nutrition.Implementation.csproj|solutionrelative:nutrition.implementation\\usecases\\commands\\foods\\efdeletefoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385EF954-C42A-4534-988E-4B679A084742}|Nutrition.Application\\Nutrition.Application.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.application\\usecases\\commands\\foods\\iupdatefoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385EF954-C42A-4534-988E-4B679A084742}|Nutrition.Application\\Nutrition.Application.csproj|solutionrelative:nutrition.application\\usecases\\commands\\foods\\iupdatefoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F003A7-5B3C-45F3-8158-DA4EECFD6C31}|Nutrition.Implementation\\Nutrition.Implementation.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.implementation\\usecases\\queries\\efgetfoodquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F003A7-5B3C-45F3-8158-DA4EECFD6C31}|Nutrition.Implementation\\Nutrition.Implementation.csproj|solutionrelative:nutrition.implementation\\usecases\\queries\\efgetfoodquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F003A7-5B3C-45F3-8158-DA4EECFD6C31}|Nutrition.Implementation\\Nutrition.Implementation.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.implementation\\usecases\\commands\\foods\\efcreatefoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F003A7-5B3C-45F3-8158-DA4EECFD6C31}|Nutrition.Implementation\\Nutrition.Implementation.csproj|solutionrelative:nutrition.implementation\\usecases\\commands\\foods\\efcreatefoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181FA0AE-1301-4962-8E4B-8942C9653069}|Nutrition.Domain\\Nutrition.Domain.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.domain\\bodybiometric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181FA0AE-1301-4962-8E4B-8942C9653069}|Nutrition.Domain\\Nutrition.Domain.csproj|solutionrelative:nutrition.domain\\bodybiometric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181FA0AE-1301-4962-8E4B-8942C9653069}|Nutrition.Domain\\Nutrition.Domain.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.domain\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181FA0AE-1301-4962-8E4B-8942C9653069}|Nutrition.Domain\\Nutrition.Domain.csproj|solutionrelative:nutrition.domain\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385EF954-C42A-4534-988E-4B679A084742}|Nutrition.Application\\Nutrition.Application.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.application\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385EF954-C42A-4534-988E-4B679A084742}|Nutrition.Application\\Nutrition.Application.csproj|solutionrelative:nutrition.application\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385EF954-C42A-4534-988E-4B679A084742}|Nutrition.Application\\Nutrition.Application.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.application\\usecases\\queries\\igetfoodquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385EF954-C42A-4534-988E-4B679A084742}|Nutrition.Application\\Nutrition.Application.csproj|solutionrelative:nutrition.application\\usecases\\queries\\igetfoodquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385EF954-C42A-4534-988E-4B679A084742}|Nutrition.Application\\Nutrition.Application.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.application\\dto\\pagedresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385EF954-C42A-4534-988E-4B679A084742}|Nutrition.Application\\Nutrition.Application.csproj|solutionrelative:nutrition.application\\dto\\pagedresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F003A7-5B3C-45F3-8158-DA4EECFD6C31}|Nutrition.Implementation\\Nutrition.Implementation.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.implementation\\logging\\usecases\\spusecaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F003A7-5B3C-45F3-8158-DA4EECFD6C31}|Nutrition.Implementation\\Nutrition.Implementation.csproj|solutionrelative:nutrition.implementation\\logging\\usecases\\spusecaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE543B4-8347-4F85-B4F5-2829FF57CC59}|Nutrition.API\\Nutrition.API.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.api\\core\\iexceptionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE543B4-8347-4F85-B4F5-2829FF57CC59}|Nutrition.API\\Nutrition.API.csproj|solutionrelative:nutrition.api\\core\\iexceptionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181FA0AE-1301-4962-8E4B-8942C9653069}|Nutrition.Domain\\Nutrition.Domain.csproj|c:\\users\\acer\\desktop\\fax\\treca godina\\asp\\projekat\\nutrition.domain\\nutrition.domain\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181FA0AE-1301-4962-8E4B-8942C9653069}|Nutrition.Domain\\Nutrition.Domain.csproj|solutionrelative:nutrition.domain\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodDto.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Application\\DTO\\FoodDto.cs",
+              "RelativeDocumentMoniker": "Nutrition.Application\\DTO\\FoodDto.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Application\\DTO\\FoodDto.cs",
+              "RelativeToolTip": "Nutrition.Application\\DTO\\FoodDto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:51:29.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MealController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.API\\Controllers\\MealController.cs",
+              "RelativeDocumentMoniker": "Nutrition.API\\Controllers\\MealController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.API\\Controllers\\MealController.cs",
+              "RelativeToolTip": "Nutrition.API\\Controllers\\MealController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:55:44.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfUpdateFoodCommand.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Implementation\\UseCases\\Commands\\Foods\\EfUpdateFoodCommand.cs",
+              "RelativeDocumentMoniker": "Nutrition.Implementation\\UseCases\\Commands\\Foods\\EfUpdateFoodCommand.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Implementation\\UseCases\\Commands\\Foods\\EfUpdateFoodCommand.cs",
+              "RelativeToolTip": "Nutrition.Implementation\\UseCases\\Commands\\Foods\\EfUpdateFoodCommand.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:38:43.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EfRegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Implementation\\UseCases\\Commands\\Users\\EfRegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "Nutrition.Implementation\\UseCases\\Commands\\Users\\EfRegisterUserCommand.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Implementation\\UseCases\\Commands\\Users\\EfRegisterUserCommand.cs",
+              "RelativeToolTip": "Nutrition.Implementation\\UseCases\\Commands\\Users\\EfRegisterUserCommand.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwEEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:45:56.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfUpdateMealCommand.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Implementation\\UseCases\\Commands\\Meals\\EfUpdateMealCommand.cs",
+              "RelativeDocumentMoniker": "Nutrition.Implementation\\UseCases\\Commands\\Meals\\EfUpdateMealCommand.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Implementation\\UseCases\\Commands\\Meals\\EfUpdateMealCommand.cs",
+              "RelativeToolTip": "Nutrition.Implementation\\UseCases\\Commands\\Meals\\EfUpdateMealCommand.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwB0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:44:14.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetFoodValidator.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Implementation\\Validators\\GetFoodValidator.cs",
+              "RelativeDocumentMoniker": "Nutrition.Implementation\\Validators\\GetFoodValidator.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Implementation\\Validators\\GetFoodValidator.cs",
+              "RelativeToolTip": "Nutrition.Implementation\\Validators\\GetFoodValidator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:43:09.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MealDto.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Application\\DTO\\MealDto.cs",
+              "RelativeDocumentMoniker": "Nutrition.Application\\DTO\\MealDto.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Application\\DTO\\MealDto.cs",
+              "RelativeToolTip": "Nutrition.Application\\DTO\\MealDto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:39:48.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.API\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "Nutrition.API\\Controllers\\FoodController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.API\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "Nutrition.API\\Controllers\\FoodController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:56:08.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EfDeleteFoodCommand.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Implementation\\UseCases\\Commands\\Foods\\EfDeleteFoodCommand.cs",
+              "RelativeDocumentMoniker": "Nutrition.Implementation\\UseCases\\Commands\\Foods\\EfDeleteFoodCommand.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Implementation\\UseCases\\Commands\\Foods\\EfDeleteFoodCommand.cs",
+              "RelativeToolTip": "Nutrition.Implementation\\UseCases\\Commands\\Foods\\EfDeleteFoodCommand.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:00:01.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodSearch.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Application\\DTO\\FoodSearch.cs",
+              "RelativeDocumentMoniker": "Nutrition.Application\\DTO\\FoodSearch.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Application\\DTO\\FoodSearch.cs",
+              "RelativeToolTip": "Nutrition.Application\\DTO\\FoodSearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:46:45.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDeleteFoodCommand.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Application\\UseCases\\Commands\\Foods\\IDeleteFoodCommand.cs",
+              "RelativeDocumentMoniker": "Nutrition.Application\\UseCases\\Commands\\Foods\\IDeleteFoodCommand.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Application\\UseCases\\Commands\\Foods\\IDeleteFoodCommand.cs",
+              "RelativeToolTip": "Nutrition.Application\\UseCases\\Commands\\Foods\\IDeleteFoodCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:03:56.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUpdateFoodCommand.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Application\\UseCases\\Commands\\Foods\\IUpdateFoodCommand.cs",
+              "RelativeDocumentMoniker": "Nutrition.Application\\UseCases\\Commands\\Foods\\IUpdateFoodCommand.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Application\\UseCases\\Commands\\Foods\\IUpdateFoodCommand.cs",
+              "RelativeToolTip": "Nutrition.Application\\UseCases\\Commands\\Foods\\IUpdateFoodCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:35:29.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EfGetFoodQuery.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Implementation\\UseCases\\Queries\\EfGetFoodQuery.cs",
+              "RelativeDocumentMoniker": "Nutrition.Implementation\\UseCases\\Queries\\EfGetFoodQuery.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Implementation\\UseCases\\Queries\\EfGetFoodQuery.cs",
+              "RelativeToolTip": "Nutrition.Implementation\\UseCases\\Queries\\EfGetFoodQuery.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:48:02.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BodyBiometric.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Domain\\BodyBiometric.cs",
+              "RelativeDocumentMoniker": "Nutrition.Domain\\BodyBiometric.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Domain\\BodyBiometric.cs",
+              "RelativeToolTip": "Nutrition.Domain\\BodyBiometric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:55:04.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Domain\\Entity.cs",
+              "RelativeDocumentMoniker": "Nutrition.Domain\\Entity.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Domain\\Entity.cs",
+              "RelativeToolTip": "Nutrition.Domain\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:55:02.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EfCreateFoodCommand.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Implementation\\UseCases\\Commands\\Foods\\EfCreateFoodCommand.cs",
+              "RelativeDocumentMoniker": "Nutrition.Implementation\\UseCases\\Commands\\Foods\\EfCreateFoodCommand.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Implementation\\UseCases\\Commands\\Foods\\EfCreateFoodCommand.cs",
+              "RelativeToolTip": "Nutrition.Implementation\\UseCases\\Commands\\Foods\\EfCreateFoodCommand.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:43:34.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Application\\DTO\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "Nutrition.Application\\DTO\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Application\\DTO\\RegisterUserDto.cs",
+              "RelativeToolTip": "Nutrition.Application\\DTO\\RegisterUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:39:44.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGetFoodQuery.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Application\\UseCases\\Queries\\IGetFoodQuery.cs",
+              "RelativeDocumentMoniker": "Nutrition.Application\\UseCases\\Queries\\IGetFoodQuery.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Application\\UseCases\\Queries\\IGetFoodQuery.cs",
+              "RelativeToolTip": "Nutrition.Application\\UseCases\\Queries\\IGetFoodQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:51:49.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PagedResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Application\\DTO\\PagedResponseDto.cs",
+              "RelativeDocumentMoniker": "Nutrition.Application\\DTO\\PagedResponseDto.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Application\\DTO\\PagedResponseDto.cs",
+              "RelativeToolTip": "Nutrition.Application\\DTO\\PagedResponseDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:47:21.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SPUseCaseLogger.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Implementation\\Logging\\UseCases\\SPUseCaseLogger.cs",
+              "RelativeDocumentMoniker": "Nutrition.Implementation\\Logging\\UseCases\\SPUseCaseLogger.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Implementation\\Logging\\UseCases\\SPUseCaseLogger.cs",
+              "RelativeToolTip": "Nutrition.Implementation\\Logging\\UseCases\\SPUseCaseLogger.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:28:16.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IExceptionLogger.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.API\\Core\\IExceptionLogger.cs",
+              "RelativeDocumentMoniker": "Nutrition.API\\Core\\IExceptionLogger.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.API\\Core\\IExceptionLogger.cs",
+              "RelativeToolTip": "Nutrition.API\\Core\\IExceptionLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:26:47.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Meal.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Domain\\Meal.cs",
+              "RelativeDocumentMoniker": "Nutrition.Domain\\Meal.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.Domain\\Meal.cs",
+              "RelativeToolTip": "Nutrition.Domain\\Meal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:45:13.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

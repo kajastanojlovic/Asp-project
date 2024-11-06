@@ -1,0 +1,30 @@
+Izmeri svoje kalorije
+Baza: 
+
+Register
+	Sex (Male, Female, Pregnant, BreastFeeding)
+	Birth Date
+	Height (in, cm?)
+	Weight (kg, lbs)
+	Activity Level
+	Set a Goal (Weight Goal, Loss-Gain (0.23kg/week))
+	First Name
+	Email
+	Password
+
+Create Meal
+	Add Meal Idem
+		Banana (Amount koliko grama je imala
+			Macronutrient Targets:
+			Energy Summary 89 kcal
+			Protein 1.1g
+			Net Carbs 20.2g
+			Fiber
+			Fat 0.3g
+			Water
+			Alcohol
+			Vitamins: B1, B2, B3, C)
+Custom Recipes
+	Create Recipes
+	Import Recipes
+

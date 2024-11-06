@@ -1,0 +1,17 @@
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\bin\Debug\net8.0\Nutrition.DataAccess.deps.json
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\bin\Debug\net8.0\Nutrition.DataAccess.runtimeconfig.json
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\bin\Debug\net8.0\Nutrition.DataAccess.dll
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\bin\Debug\net8.0\Nutrition.DataAccess.pdb
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\bin\Debug\net8.0\Nutrition.Domain.dll
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\bin\Debug\net8.0\Nutrition.Domain.pdb
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\obj\Debug\net8.0\Nutrition.DataAccess.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\obj\Debug\net8.0\Nutrition.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\obj\Debug\net8.0\Nutrition.DataAccess.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\obj\Debug\net8.0\Nutrition.DataAccess.AssemblyInfo.cs
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\obj\Debug\net8.0\Nutrition.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\obj\Debug\net8.0\Nutritio.92F63304.Up2Date
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\obj\Debug\net8.0\Nutrition.DataAccess.dll
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\obj\Debug\net8.0\refint\Nutrition.DataAccess.dll
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\obj\Debug\net8.0\Nutrition.DataAccess.pdb
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\obj\Debug\net8.0\Nutrition.DataAccess.genruntimeconfig.cache
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.DataAccess\obj\Debug\net8.0\ref\Nutrition.DataAccess.dll

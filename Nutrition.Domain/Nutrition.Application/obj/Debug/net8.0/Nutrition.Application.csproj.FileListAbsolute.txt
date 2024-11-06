@@ -1,0 +1,17 @@
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\bin\Debug\net8.0\Nutrition.Application.deps.json
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\bin\Debug\net8.0\Nutrition.Application.runtimeconfig.json
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\bin\Debug\net8.0\Nutrition.Application.dll
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\bin\Debug\net8.0\Nutrition.Application.pdb
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\obj\Debug\net8.0\Nutrition.Application.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\obj\Debug\net8.0\Nutrition.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\obj\Debug\net8.0\Nutrition.Application.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\obj\Debug\net8.0\Nutrition.Application.AssemblyInfo.cs
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\obj\Debug\net8.0\Nutrition.Application.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\obj\Debug\net8.0\Nutrition.Application.dll
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\obj\Debug\net8.0\refint\Nutrition.Application.dll
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\obj\Debug\net8.0\Nutrition.Application.pdb
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\obj\Debug\net8.0\Nutrition.Application.genruntimeconfig.cache
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\obj\Debug\net8.0\ref\Nutrition.Application.dll
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\bin\Debug\net8.0\Nutrition.Domain.dll
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\bin\Debug\net8.0\Nutrition.Domain.pdb
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Application\obj\Debug\net8.0\Nutritio.5B991C6A.Up2Date

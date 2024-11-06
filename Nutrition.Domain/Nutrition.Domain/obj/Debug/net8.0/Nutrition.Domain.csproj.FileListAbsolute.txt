@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Domain\bin\Debug\net8.0\Nutrition.Domain.deps.json
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Domain\bin\Debug\net8.0\Nutrition.Domain.runtimeconfig.json
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Domain\bin\Debug\net8.0\Nutrition.Domain.dll
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Domain\bin\Debug\net8.0\Nutrition.Domain.pdb
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Domain\obj\Debug\net8.0\Nutrition.Domain.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Domain\obj\Debug\net8.0\Nutrition.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Domain\obj\Debug\net8.0\Nutrition.Domain.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Domain\obj\Debug\net8.0\Nutrition.Domain.AssemblyInfo.cs
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Domain\obj\Debug\net8.0\Nutrition.Domain.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Domain\obj\Debug\net8.0\Nutrition.Domain.dll
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Domain\obj\Debug\net8.0\refint\Nutrition.Domain.dll
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Domain\obj\Debug\net8.0\Nutrition.Domain.pdb
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Domain\obj\Debug\net8.0\Nutrition.Domain.genruntimeconfig.cache
+C:\Users\acer\Desktop\Fax\Treca godina\ASP\Projekat\Nutrition.Domain\Nutrition.Domain\obj\Debug\net8.0\ref\Nutrition.Domain.dll

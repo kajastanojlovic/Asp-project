@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.API\\wwwroot\\images\\11c16991-9bd0-45b9-b5fc-7d43ed391309.png",
+      "PackagePath": "staticwebassets\\images\\11c16991-9bd0-45b9-b5fc-7d43ed391309.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.API\\wwwroot\\images\\a786a530-920c-4d82-a482-76cc0473be7e.jpg",
+      "PackagePath": "staticwebassets\\images\\a786a530-920c-4d82-a482-76cc0473be7e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.API\\wwwroot\\images\\cc7a35aa-96ef-4b26-9bd3-b33b9e79d0b3.png",
+      "PackagePath": "staticwebassets\\images\\cc7a35aa-96ef-4b26-9bd3-b33b9e79d0b3.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Nutrition.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Nutrition.API.props",
+      "PackagePath": "build\\Nutrition.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Nutrition.API.props",
+      "PackagePath": "buildMultiTargeting\\Nutrition.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Nutrition.API.props",
+      "PackagePath": "buildTransitive\\Nutrition.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

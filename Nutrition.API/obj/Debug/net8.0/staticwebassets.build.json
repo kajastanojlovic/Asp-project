@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "F4lFWcMPrIgkmItd37H3QwZx5Qix3cZy3RosEExb2HM=",
+  "Source": "Nutrition.API",
+  "BasePath": "_content/Nutrition.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Nutrition.API\\wwwroot",
+      "Source": "Nutrition.API",
+      "ContentRoot": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.API\\wwwroot\\",
+      "BasePath": "_content/Nutrition.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.API\\wwwroot\\images\\11c16991-9bd0-45b9-b5fc-7d43ed391309.png",
+      "SourceId": "Nutrition.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.API\\wwwroot\\",
+      "BasePath": "_content/Nutrition.API",
+      "RelativePath": "images/11c16991-9bd0-45b9-b5fc-7d43ed391309.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\11c16991-9bd0-45b9-b5fc-7d43ed391309.png"
+    },
+    {
+      "Identity": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.API\\wwwroot\\images\\a786a530-920c-4d82-a482-76cc0473be7e.jpg",
+      "SourceId": "Nutrition.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.API\\wwwroot\\",
+      "BasePath": "_content/Nutrition.API",
+      "RelativePath": "images/a786a530-920c-4d82-a482-76cc0473be7e.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a786a530-920c-4d82-a482-76cc0473be7e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.API\\wwwroot\\images\\cc7a35aa-96ef-4b26-9bd3-b33b9e79d0b3.png",
+      "SourceId": "Nutrition.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\acer\\Desktop\\Fax\\Treca godina\\ASP\\Projekat\\Nutrition.Domain\\Nutrition.API\\wwwroot\\",
+      "BasePath": "_content/Nutrition.API",
+      "RelativePath": "images/cc7a35aa-96ef-4b26-9bd3-b33b9e79d0b3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cc7a35aa-96ef-4b26-9bd3-b33b9e79d0b3.png"
+    }
+  ]
+}

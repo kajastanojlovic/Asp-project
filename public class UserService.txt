@@ -1,0 +1,63 @@
+public class UserService
+{
+    private readonly AppDbContext _context;
+
+    public UserService(AppDbContext context)
+    {
+        _context = context;
+    }
+
+    public async Task<User> RegisterUserAsync(User user)
+    {
+        // Proverite da li je korisnik već registrovan
+        if (_context.Users.Any(u => u.Email == user.Email))
+        {
+            throw new Exception("User already exists.");
+        }
+
+        // Postavite podrazumevanu sliku ako nije uneta
+        if (user.ImageId == 0)
+        {
+            var defaultImage = _context.Images.FirstOrDefault(img => img.Path == "default/avatar.png");
+            if (defaultImage == null)
+            {
+                defaultImage = new Image { Path = "default/avatar.png" };
+                _context.Images.Add(defaultImage);
+                await _context.SaveChangesAsync();
+            }
+            user.ImageId = defaultImage.Id;
+        }
+
+        _context.Users.Add(user);
+        await _context.SaveChangesAsync();
+
+        return user;
+    }
+}
+
+[
+{100g, 1},
+{600g, 13} 
+]
+{
+    "Email":"sale@gmail.com",
+    "Username":"sale",
+    "BirthDate":"2002-02-02",
+    "Height":180,
+    "StartWeight":60,
+    "Password":"Sale1996",
+    "GoalEnd":"2025-01-01",
+    "ImagePath":"Upload.png"
+}
+"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI3NzY5ZGJlZi1jYmRhLTQ0YzItYTJjMi1hMGU5YWMzOGRjOTQiLCJpc3MiOiJOdXRyaXRpb24iLCJpYXQiOjE3MTg2NTQyMzEsIlVzZXJuYW1lIjoia2FqZXN0ZSIsIklkIjoiMTQiLCJVc2VDYXNlSWRzIjoiWzNdIiwibmJmIjoxNzE4NjU0MjMxLCJleHAiOjE3MTg2NTQ4MzEsImF1ZCI6IkFueSJ9.TFbqYBmwB5B3o2Hm86Z7q-Dw9GsxMWAKvOm9PO35UME"
+
+{
+    "Name":"Obrok1",
+    "Amount":100,
+    "ServingSizeId":1,
+    "FoodId":2
+}
+{
+"Username":"kajeste",
+"Password":"Kajeste2002"
+}
